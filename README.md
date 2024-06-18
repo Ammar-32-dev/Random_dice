@@ -1,2 +1,2 @@
-# random_dice
+# Random_dice
  
